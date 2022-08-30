@@ -1,0 +1,17 @@
+body{
+background-color: rgb(209, 229, 246);
+
+
+}
+
+td{
+    border: 1;
+    border-style: solid;
+    border-color: #ccc;
+}
+
+th{
+    border: 1;
+    border-style: solid;
+    border-color: #ccc;
+}

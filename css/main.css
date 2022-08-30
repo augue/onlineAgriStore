@@ -1,0 +1,37 @@
+
+body{
+   /* margin: 0;*/
+  /* padding: 0;*/
+    background-color: aqua;
+    background-image: url("../images/beautiful.jpg");
+}
+/* *{
+    background-color: bisque;
+} */
+
+#header{
+    color:brown
+}
+div.header_class{
+    background-color: chartreuse;
+}
+
+div p{
+    background-color: black;
+    color: white;
+    padding:50px
+}
+.mainlist > li{
+    background-color: cadetblue;
+    border: 1px solid #000;
+    color: red;
+}
+ul > li a{
+    background-color: rgb(198, 97, 35);
+    border: 1px solid #000;
+}
+
+
+h1,h3 {
+    color: rgba(79, 134, 182, 0.124);
+}
